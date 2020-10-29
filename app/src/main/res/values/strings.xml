@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BLibrary</string>
+    <string name="logo_name">When in doubt come to the library</string>
+
+    <!--Strings for dashboard-->
+       <!--category-->
+    <string name="Import">Import</string>
+    <string name="books">Books</string>
+    <string name="subject">Subject</string>
+    <string name="classes">Classes</string>
+    <string name="export">Export</string>
+
+
+
+    <!--Titles and Description-->
+    <string name="ict_subjects">All Bed.ICT Subjects</string>
+    <string name="all_subjects_description">All the subjects that are listed and have been studied throughout the year!</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+</resources>
