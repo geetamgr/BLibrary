@@ -1,1 +1,9 @@
+It will be helpful in simplifying the work at the library. The project can have the following features:
+Book id: This is a unique id through which the book can be tracked.
+Borrower: It is the person who will borrow the book from the library.
+Issuer: The person who issues the book like the librarian.
+Date of issuing: It is the date that will be recorded on which the book will be issued.
+Date of return: It is the date on which the particular book will be returned.
+Fine: Extra amount received for the late return of the book.
+
 
